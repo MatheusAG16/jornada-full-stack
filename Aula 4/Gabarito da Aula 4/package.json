@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "mongodb": "^6.13.0"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
   }
 }
